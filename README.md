@@ -27,6 +27,9 @@ The code is from https://github.com/hgbrian/MD_protein_ligand.
 
 <img src="examples/md_protein_ligand_colab.png" width="500px" />
 
+Consider using this [making-it-rain colab](https://colab.research.google.com/github/pablo-arantes/making-it-rain/blob/main/Protein_ligand.ipynb) also.
+
+
 ## SMILES_to_properties
 <a target="_blank" href="https://colab.research.google.com/github/hgbrian/biocolabs/blob/master/SMILES_to_properties.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
