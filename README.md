@@ -11,6 +11,8 @@ for more details.
 
 This colab allows you to dock a ligand to a protein with DiffDock, refines the docked position with gnina,
 displays the result in the notebook, and downloads all the outputs.
+<img src="examples/diffdock_colab.png" width="500px" />
+<img src="examples/diffdock_colab2.png" width="800px" />
 
 ## MD_protein_ligand
 <a target="_blank" href="https://colab.research.google.com/github/hgbrian/biocolabs/blob/master/MD_protein_ligand.ipynb">
