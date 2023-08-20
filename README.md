@@ -22,7 +22,7 @@ displays the result in the notebook, and downloads all the outputs.
 This colab allows you to run a simple MD simulation of a protein and a ligand,
 displays the result in the notebook, and downloads all the outputs.
 The code is from https://github.com/hgbrian/MD_protein_ligand
-<img src="examples/md_protein_ligand_colab.png" width="500px" height="500px" />
+<img src="examples/md_protein_ligand_colab.png" width="500px" />
 
 ## SMILES_to_properties
 <a target="_blank" href="https://colab.research.google.com/github/hgbrian/biocolabs/blob/master/SMILES_to_properties.ipynb">
@@ -38,7 +38,7 @@ This colab takes as input a SMILES and returns predicted properties, using [chem
 
 A simple colab that turns a PDB file into a high-quality PNG using pymol.
 The code is from https://github.com/hgbrian/pdb2png.
-<img src="examples/4O75_default.png" width="500px" height="500px" />
+<img src="examples/4O75_default.png" width="500px" />
 
 ## Pocket2Mol
 <a target="_blank" href="https://colab.research.google.com/github/hgbrian/biocolabs/blob/master/Pocket2Mol.ipynb">
