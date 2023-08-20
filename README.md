@@ -30,6 +30,7 @@ The code is from https://github.com/hgbrian/MD_protein_ligand
 </a>
 
 This colab takes as input a SMILES and returns predicted properties, using [chemprop](https://github.com/chemprop/chemprop).
+<img src="examples/smiles_to_properties_colab.png" width="500px" />
 
 ## pdb2png
 <a target="_blank" href="https://colab.research.google.com/github/hgbrian/biocolabs/blob/master/pdb2png.ipynb">
@@ -38,7 +39,7 @@ This colab takes as input a SMILES and returns predicted properties, using [chem
 
 A simple colab that turns a PDB file into a high-quality PNG using pymol.
 The code is from https://github.com/hgbrian/pdb2png.
-<img src="examples/pdb2png.png" width="500px" />
+<img src="examples/pdb2png_colab.png" width="500px" />
 
 ## Pocket2Mol
 <a target="_blank" href="https://colab.research.google.com/github/hgbrian/biocolabs/blob/master/Pocket2Mol.ipynb">
