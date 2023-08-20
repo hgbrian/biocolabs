@@ -38,7 +38,7 @@ This colab takes as input a SMILES and returns predicted properties, using [chem
 
 A simple colab that turns a PDB file into a high-quality PNG using pymol.
 The code is from https://github.com/hgbrian/pdb2png.
-<img src="examples/4O75_default.png" width="500px" />
+<img src="examples/pdb2png.png" width="500px" />
 
 ## Pocket2Mol
 <a target="_blank" href="https://colab.research.google.com/github/hgbrian/biocolabs/blob/master/Pocket2Mol.ipynb">
