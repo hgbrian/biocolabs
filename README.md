@@ -1,10 +1,8 @@
 # biocolabs
 
 A collection of colabs useful for molecular biology tasks.
-See this [booleanbiotech blogpost](http://blog.booleanbiotech.com/colab-computational-drug-design-2023.html)
+See this [blog.booleanbiotech.com blogpost](http://blog.booleanbiotech.com/colab-computational-drug-design-2023.html)
 for more details.
-
-https://colab.research.google.com/github/hgbrian/biocolabs/blob/master/
 
 ## DiffDock
 <a target="_blank" href="https://colab.research.google.com/github/hgbrian/biocolabs/blob/master/DiffDock.ipynb">
