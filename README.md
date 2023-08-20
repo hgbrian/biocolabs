@@ -1,7 +1,7 @@
 # biocolabs
 
 A collection of colabs useful for molecular biology tasks.
-See this [blog.booleanbiotech.com blogpost](http://blog.booleanbiotech.com/colab-computational-drug-design-2023.html)
+See [blog.booleanbiotech.com](http://blog.booleanbiotech.com/colab-computational-drug-design-2023.html)
 for more details.
 
 ## DiffDock
