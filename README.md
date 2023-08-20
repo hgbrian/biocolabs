@@ -10,7 +10,7 @@ https://colab.research.google.com/github/hgbrian/biocolabs/blob/master/
 This colab allows you to dock a ligand to a protein with DiffDock, refines the docked position with gnina,
 displays the result in the notebook, and downloads all the outputs.
 
-## [MD_protein_ligand(https://colab.research.google.com/github/hgbrian/biocolabs/blob/master/MD_protein_ligand.ipynb)
+## [MD_protein_ligand](https://colab.research.google.com/github/hgbrian/biocolabs/blob/master/MD_protein_ligand.ipynb)
 This colab allows you to run a simple MD simulation of a protein and a ligand,
 displays the result in the notebook, and downloads all the outputs.
 The code is from https://github.com/hgbrian/MD_protein_ligand
