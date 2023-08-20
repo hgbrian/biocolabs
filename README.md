@@ -44,6 +44,7 @@ The code is from https://github.com/hgbrian/pdb2png.
 <a target="_blank" href="https://colab.research.google.com/github/hgbrian/biocolabs/blob/master/Pocket2Mol.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+<img src="examples/pocket2mol_colab.png" width="500px" />
 
 A basic colab for running [Pocket2Mol](https://github.com/pengxingang/Pocket2Mol).
 
