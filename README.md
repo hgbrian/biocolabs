@@ -22,6 +22,7 @@ displays the result in the notebook, and downloads all the outputs.
 This colab allows you to run a simple MD simulation of a protein and a ligand,
 displays the result in the notebook, and downloads all the outputs.
 The code is from https://github.com/hgbrian/MD_protein_ligand
+<img src="examples/md_protein_ligand_colab.png" width="500px" height="500px" />
 
 ## SMILES_to_properties
 <a target="_blank" href="https://colab.research.google.com/github/hgbrian/biocolabs/blob/master/SMILES_to_properties.ipynb">
