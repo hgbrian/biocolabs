@@ -20,6 +20,7 @@ This colab takes as input a SMILES and returns predicted properties, using [chem
 
 ## [pdb2png](https://colab.research.google.com/github/hgbrian/biocolabs/blob/master/pdb2png.ipynb)
 A simple colab that turns a PDB file into a high-quality PNG using pymol.
+The code is from https://github.com/hgbrian/pdb2png.
 
 ## [Pocket2Mol](https://colab.research.google.com/github/hgbrian/biocolabs/blob/master/Pocket2Mol.ipynb)
 A basic colab for running [Pocket2Mol](https://github.com/pengxingang/Pocket2Mol).
